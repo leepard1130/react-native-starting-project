@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "expo": "~55.0.8",
+    "expo-app-loading": "^2.1.1",
+    "expo-font": "~55.0.6",
     "expo-linear-gradient": "~55.0.9",
+    "expo-splash-screen": "~55.0.15",
     "expo-status-bar": "~55.0.4",
     "react": "19.2.0",
     "react-native": "0.83.2",
